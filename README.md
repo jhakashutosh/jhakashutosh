@@ -48,18 +48,9 @@ Data validation and reconciliation
 Healthcare and financial-services quality practices
 HIPAA, FDA validation, SOX, FINRA, AML, and audit/control validation
 
-This profile can host practical examples and learning projects related to:
-
-UI and API test automation
-Reusable test frameworks and test utilities
-CI/CD quality gates and release-readiness checks
-AI-assisted testing concepts and LLM evaluation
-Test strategy, quality metrics, and engineering leadership resources
-
-Repositories will be added as projects are published. Any examples shared here will be illustrative and will not contain confidential employer or client information.
 
 Connect
-LinkedIn: Ashutosh Jha
+LinkedIn: https://www.linkedin.com/in/jhakashutosh/
 <div align="center">
 
 Building quality into software delivery—not just testing it at the end.
