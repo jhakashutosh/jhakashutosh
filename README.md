@@ -47,13 +47,6 @@ Functional, integration, regression, SIT, UAT, performance, and security testing
 Data validation and reconciliation
 Healthcare and financial-services quality practices
 HIPAA, FDA validation, SOX, FINRA, AML, and audit/control validation
-Professional Experience
-Twin Health — QA Engineering Lead | Dec 2021–Present
-Lead Quality Engineering and end-to-end delivery for an AI-driven Precision Health platform, covering digital experiences, treatment platforms, clinical workflows, and patient data management.
-Iris Software — QA Manager | Aug 2010–Nov 2021
-Led Quality Engineering teams and enterprise testing initiatives across financial services, healthcare technology, RFID, and market intelligence.
-Earlier experience: Senior Test Lead at Magnon, Senior Test Engineer at GlobalLogic, and Software Testing Engineer at Graffiti.
-What You'll Find Here
 
 This profile can host practical examples and learning projects related to:
 
