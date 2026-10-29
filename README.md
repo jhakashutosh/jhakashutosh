@@ -1,5 +1,5 @@
 <div align="center">
-Hi, I'm Ashutosh Jha 👋
+Ashutosh Jha 👋
 Software Engineering & Quality Engineering Leader
 
 Quality Engineering • AI-Driven Testing • Test Automation • CI/CD • Enterprise Software Delivery
